@@ -1,14 +1,13 @@
-# Hi Im Alex 
-Love coffee, building things and and agonizing over optimizations. It just so happened that these passions collide in programming. I work as a full-stack developer, sometimes my work spills into security and system administration, but i love it all the same.
+# Hi, I'm Alex
 
-## Beyond Code
-When not coding, you'll find me tinkering with Raspberry Pi projects, fixing my 3D printer, baking bread, studying Latin, or diving into games. I also write a [personal blog](https://koval.xyz/)
+I love coffee, building things and agonizing over optimizations. Programming happens to be where all three collide. I work as a full-stack developer; sometimes the work spills into security and system administration, and I love that part just as much.
 
-## Let's Connect
-- 📧 Email: [kovalev.alex10@gmail.com](mailto:kovalev.alex10@gmail.com)
-- 🌐 Blog: [koval.xyz](https://koval.xyz/)
-- 💼 Open to collaboration on small-scale projects with reasonable architecture
+I write at **[koval.xyz](https://koval.xyz/)**.
 
+## Things I made
+- [WP security check](https://koval.xyz/tools/wp-security-check) – passive scan of your wp site
+- [Gridfinity generator](https://koval.xyz/tools/gridfinity-generator/) – printable bins for your drawers
+- Interactive toys inside my posts that explain the idea instead of describing it
 
----
-*Always looking for elegant solutions to real-world problems.*
+## Beyond code
+Raspberry Pi projects, fixing my 3D printer, baking bread, studying Latin, games.
